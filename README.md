@@ -10,7 +10,6 @@ Accepting ideas request ---> [![GitHub issues](https://img.shields.io/github/iss
 
 <hr>
 
-![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/d898113b-6e74-4fd2-b354-3b001a1773fd)
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/af494db6-e234-4c77-bb19-48d849cf0ccd)
 
 <h2>2nd day</h2>
@@ -19,3 +18,10 @@ Accepting ideas request ---> [![GitHub issues](https://img.shields.io/github/iss
 <hr>
 
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/12583972-9280-471a-9a08-2e2420bb6e06)
+
+<h2>3rd day</h2>
+<p>A simple calculator.</p>
+
+<hr>
+
+![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/0242488d-1280-4df5-9ba7-c049b339c813)
