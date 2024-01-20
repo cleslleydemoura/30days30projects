@@ -24,3 +24,11 @@ Accepting ideas request ---> [![GitHub issues](https://img.shields.io/github/iss
 <hr>
 
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/0242488d-1280-4df5-9ba7-c049b339c813)
+
+<h2>4th day</h2>
+<p>Pointer clock.</p>
+<p>This one is more about CSS programming than JS, because you set the clock rotation in CSS.</p>
+
+<hr>
+
+![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/bfa7d274-4270-4214-87f9-a5df912c9c5d)
