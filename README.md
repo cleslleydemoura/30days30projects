@@ -3,7 +3,6 @@
 <p> For 30 days I'll be posting some codes with html, css and js. Made for self-knowledge and also to help some friends who are new to programming.</p>
 
 Accepting ideas request ---> [![GitHub issues](https://img.shields.io/github/issues/cleslleydemoura/boxicons.svg)](https://github.com/cleslleydemoura/30days30projects/issues)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/cleslleydemoura/boxicons.svg?style=social)](https://twitter.com/cleslleydemourx)
 
 <h2>1st day</h2>
 <p> A GitHub profile researcher as a starter project. </p>
