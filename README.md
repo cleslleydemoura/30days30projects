@@ -27,7 +27,7 @@ Accepting ideas request ---> [![GitHub issues](https://img.shields.io/github/iss
 
 <h2>4th day</h2>
 <p>Pointer clock.</p>
-<p>This one is more about CSS programming than JS, because you set the clock rotation in CSS.</p>
+<p>This one is more about CSS programming than JS, because you need set the clock rotation in CSS.</p>
 
 <hr>
 
