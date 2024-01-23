@@ -42,6 +42,7 @@ Accepting ideas request ---> [![GitHub issues](https://img.shields.io/github/iss
 
 <h2>6th day</h2>
 <p>Webpage with a bottom water wave animation.</p>
+<p>Animation fully made with CSS.</p>
 
 <hr>
 
