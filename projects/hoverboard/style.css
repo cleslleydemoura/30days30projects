@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f1f1f;
+    overflow: hidden;
+}
+
+.container {
+    display: flex; /* Forma como os quadrados serão empilhados lado a lado.*/
+    justify-content: center;
+    align-items: center;
+    max-width: 500px;
+    flex-wrap: wrap; /* Permite habilitar a direção de controle em que as linhas são empilhadas. */
+}
+
+/* Colocando as propriedades dos quadrados e seu hover que cria a animação de troca de cor.*/
+
+.square {
+    background-color: #1d1d1d;
+    box-shadow: 0 0 2px #131313;
+    height: 16px;
+    width: 16px;
+    margin: 2px;
+    transition: 2s ease;
+}
+
+.square:hover {
+    transition-duration: 0s;
+}
