@@ -2,7 +2,7 @@
 
 <p> For 30 days I'll be posting some codes with html, css and js. Made for self-knowledge and also to help some friends who are new to programming.</p>
 
-Accepting ideas request ---> [![GitHub issues](https://img.shields.io/github/issues/atisawd/boxicons.svg)](https://github.com/cleslleydemoura/30days30projects/issues)
+Accepting ideas request!
 
 <h2>1st day</h2>
 <p> A GitHub profile researcher as a starter project. </p>
