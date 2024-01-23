@@ -39,3 +39,10 @@ Accepting ideas request ---> [![GitHub issues](https://img.shields.io/github/iss
 <hr>
 
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/ecd42f4f-60ca-4cb6-9b7d-3be4868a2a0a)
+
+<h2>6th day</h2>
+<p>Webpage with a bottom water wave animation.</p>
+
+<hr>
+
+![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/375789c4-07f3-4950-b1c4-809a164d1fe2)
