@@ -48,9 +48,16 @@ Accepting ideas request!
 
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/375789c4-07f3-4950-b1c4-809a164d1fe2)
 
-<h2>8th day</h2>
+<h2>7th day</h2>
 <p>Hoverboard.</p>
 
 <hr>
 
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/3d9b4601-b392-4327-bb67-6791116e8cc6)
+
+<h2>8th day</h2>
+<p>A hidden search input.</p>
+
+<hr>
+
+![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/2ea59ab6-657e-4a06-9a82-d78d30d41675)
