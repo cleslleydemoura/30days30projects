@@ -61,3 +61,10 @@ Accepting ideas request!
 <hr>
 
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/2ea59ab6-657e-4a06-9a82-d78d30d41675)
+
+<h2>9th day</h2>
+<p>Password Toogle</p>
+
+<hr>
+
+![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/77948b65-9fcc-4517-b303-2acb352f2491)
