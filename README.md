@@ -68,3 +68,10 @@ Accepting ideas request!
 <hr>
 
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/77948b65-9fcc-4517-b303-2acb352f2491)
+
+<h2>10th day</h2>
+<p>A image carousel.</p>
+
+<hr>
+
+![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/7c9082fc-a09d-4b62-83be-e81b660b58a5)
