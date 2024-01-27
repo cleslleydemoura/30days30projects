@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Work+Sans&display=swap');
+
+* {
+  box-sizing: border-box;
+  font-family: 'Afacad', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(#2b4461, #4376af);
+}
+
+img {
+  width: 500px;
+  height: 500px;
+  object-fit: cover;
+}
+
+.carousel {
+  box-shadow: 2px 2px 5px #404e684d;
+  height: 530px;
+  width: 500px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.image-container {
+  display: flex;
+  transform: translateX(0);
+  transition: transform 0.5s ease-in-out;
+}
+
+.buttons-container {
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  background-color: #2b4461;
+  color: white;
+  border: none;
+  padding: 0.5rem;
+  cursor: pointer;
+  width: 49.5%;
+}
+
+.btn:hover {
+  transition: 300ms;
+  opacity: 0.9;
+  background-color: white;
+  color: #2b4461;
+}
+
+.btn:focus {
+  outline: none;
+}
