@@ -75,3 +75,11 @@ Accepting ideas request!
 <hr>
 
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/7c9082fc-a09d-4b62-83be-e81b660b58a5)
+
+<h2>11th day</h2>
+<p>Event KeyCode</p>
+
+<hr>
+
+![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/3b4c853c-bbcb-420f-8277-cd559dad4742)
+
