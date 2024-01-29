@@ -84,7 +84,7 @@ Accepting ideas request!
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/3b4c853c-bbcb-420f-8277-cd559dad4742)
 
 <h2>12th day</h2>
-<p>QR Code Generator</p>
+<p>A QR Code Generator.</p>
 
 <hr>
 
