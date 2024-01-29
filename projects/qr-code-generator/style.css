@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Work+Sans&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Afacad', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    background: #838383;
+}
+
+.container {
+    width: 400px;
+    padding: 25px 35px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    border-radius: 10px;
+}
+
+.container p {
+    font-weight: 600;
+    font-size: 15px;
+    margin-bottom: 8px;
+}
+
+.container input {
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    border: 1px solid white;
+    outline: 0;
+    margin: 10px 0 20px;
+    padding: 10px;
+}
+
+.container button {
+    width: 100%;
+    height: 50px;
+    background: #8f8f8f;
+    color: white;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px #0000001a;
+    cursor: pointer;
+    margin: 20px 0;
+    font-weight: 500;
+}
+.container button:hover {
+    width: 100%;
+    height: 50px;
+    background: #c0c0c0;
+    transition: 300ms;
+    color: white;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px #0000001a;
+    cursor: pointer;
+    margin: 20px 0;
+    font-weight: 500;
+}
+
+#imgBox {
+    text-align: center;
+}
