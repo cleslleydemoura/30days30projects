@@ -5,7 +5,7 @@
 Accepting ideas request!
 
 <h2>1st day</h2>
-<p> A GitHub profile researcher as a starter project. </p>
+<p> A GitHub profile researcher as a starter project! </p>
 
 <hr>
 
