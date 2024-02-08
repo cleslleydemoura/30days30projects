@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Work+Sans&display=swap');
+
+* {
+    font-family: 'Afacad', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    overflow: hidden;
+    height: 100vh;
+    color: white;
+}
+
+.container {
+    height: 100%;
+    display: flex;
+}
+
+h1 {
+    background: white;
+    background-clip: text;
+}
+
+/*                  T O O L B A R                   */
+
+#toolbar {
+    display: flex;
+    width: 80px;
+    background-color: #202020;
+    flex-direction: column;
+    padding: 5px;
+}
+#toolbar * {
+    margin-bottom: 6px;
+}
+#toolbar label {
+    font-size: 12px;
+}
+#stroke {
+    width: 100%;
+}
+#toolbar button {
+    background-color: #7bb3af;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 2px;
+    cursor: pointer;
+}
+#toolbar button:hover {
+    transition: 300ms;
+    background-color: #91EAE4;
+    color: white;
+}
