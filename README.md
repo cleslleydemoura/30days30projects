@@ -117,7 +117,7 @@ Accepting ideas request!
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/019311f6-4486-4320-844e-0aadf09b507b)
 
 <h2>16th day</h2>
-<p>Switch color.</p>
+<p>Switch Color.</p>
 
 <hr>
 
