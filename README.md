@@ -3,6 +3,11 @@
 <p> For 30 days I'll be posting some codes with html, css and javascript. Made for self-knowledge and also to help some friends who are new to programming.</p>
 
 Accepting ideas request!
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,html,css,javascript" />
+  </a>
+</p>
 
 <h2>1st day</h2>
 <p> A GitHub profile researcher as a starter project! </p>
