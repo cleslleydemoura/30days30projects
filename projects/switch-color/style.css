@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Work+Sans&display=swap');
+
+* {
+    font-family: 'Afacad', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Reminder: Para a div centralizar ao meio da tela, o container deve ser tão grande quanto o tamanho da tela.*/
+}
+
+.container button {
+    background: #505050;
+    text-transform: uppercase;
+    padding: 5px 20px;
+    outline: 0;
+    color: white;
+    border-radius: 20px;
+    cursor: pointer;
+    display: block;
+}
