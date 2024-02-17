@@ -4,7 +4,7 @@
 
 Accepting ideas request!
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=github,html,css,javascript" />
   </a>
 </p>
