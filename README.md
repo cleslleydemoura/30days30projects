@@ -2,10 +2,10 @@
 
 <p> For 30 days I'll be posting some codes with html, css and javascript. Made for self-knowledge and also to help some friends who are new to programming.</p>
 
-Accepting ideas request!
+<p>Accepting ideas request!</p>
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=github,html,css,javascript" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,javascript">
   </a>
 </p>
 
