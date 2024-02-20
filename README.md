@@ -122,3 +122,10 @@ Accepting ideas request!
 <hr>
 
 ![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/4795718d-ffa0-4bae-b43f-abaa70f0881e)
+
+<h2>17th day</h2>
+<p>A notes app.</p>
+
+<hr>
+
+![image](https://github.com/cleslleydemoura/30days30projects/assets/100368699/4674e841-a893-4021-9bf5-ae4c7337b98a)
