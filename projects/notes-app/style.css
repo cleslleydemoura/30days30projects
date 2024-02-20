@@ -1,0 +1,220 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad&family=Work+Sans&display=swap');
+
+* {
+    font-family: 'Afacad', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+body {
+    background-color: #53b2ff;
+    display: flex;
+    min-height: 100vh;
+    margin: 0;
+    align-items: center;
+    justify-content: center;
+}
+
+#container {
+    background-color: white;
+    box-shadow: 0px 10px 15px 10px #0000004d;
+    border-radius: 8px;
+    overflow: hidden;
+    overflow-y: scroll;
+    height: 600px;
+    padding: 20px;
+    width: 826px;
+    box-sizing: border-box;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.blankDiv {
+    background-color: white;
+    border: none;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 10px;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}
+
+#addNoteDiv {
+    background-color: whitesmoke;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+}
+
+#addNoteDiv:hover {
+    transition: 0.25s;
+    background-color: #dadada;
+}
+
+#addNoteDiv i {
+    font-size: 70px;
+    color: whitesmoke;
+}
+
+/*                  L I S T                 */
+
+#list-container {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-wrap: center;
+    text-align: center;
+}
+
+li {
+    background-color: #ffed4a;
+    margin: 5px 0;
+    padding: 20px;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 9px 9px 18px #b3b3b3,
+             -9px -9px 18px white;
+}
+
+li span {
+    font-size: 12px;
+    flex-grow: 1;
+    word-wrap: break-word;
+    overflow-y: scroll;
+}
+
+#editBtn,
+#deleteBtn {
+    background-color: #aad6ff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin: 0 5px; /* Adjusted margin for spacing */
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 12px;
+    width: 60px;
+}
+
+#editBtn {
+    background-color: #dcdcdc;
+}
+
+#deleteBtn:hover {
+    background-color: #53a3ff;
+}
+
+#editBtn:hover {
+    background-color: gray;
+}
+
+
+/*                  N O T E - P O P U P - C S S                 */
+#popupContainer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    border: 1px solid #cccccc;
+    box-shadow: 0 0 10px #0000001a;
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+textarea {
+    width: 300px;
+    height: 200px;
+    margin: 10px 0;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    border: 2px solid #53a3ff;
+}
+
+#btn-container {
+    display: flex;
+}
+
+#submitBtn, #closeBtn {
+    width: 100px;
+    background-color: #53acff;
+    color: white;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#closeBtn {
+    background-color: #dcdcdc;
+}
+
+
+/*                  P O P U P - C S S                   */
+
+#editing-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 300px;
+    background-color: white;
+    border: 1px solid rgb(197, 197, 197);
+    box-shadow: 0 0 10px #0000001a;
+    padding: 20px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+#submitBtn, #closeBtn {
+    width: 100px;
+    background-color: #53acff;
+    color: white;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#closeBtn {
+    background-color: #dcdcdc;
+}
