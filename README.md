@@ -1,8 +1,4 @@
-<h1> 30 DAYS 30 PROJECTS</h1>
 
-<p> For 30 days I'll be posting some codes with html, css and javascript. Made for self-knowledge and also to help some friends who are new to programming.</p>
-
-<p>Accepting ideas request!</p>
 <p align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=github,html,css,javascript">
