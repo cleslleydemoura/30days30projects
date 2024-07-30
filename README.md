@@ -5,6 +5,10 @@
   </a>
 </p>
 
+```
+Projetos utilizando HTML, CSS e JavaScript
+```
+
 <h2>1st day</h2>
 <p> A GitHub profile researcher as a starter project! </p>
 
